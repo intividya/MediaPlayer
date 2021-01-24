@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "16172198445",
+    "project_id": "mediaplayer-efc92",
+    "storage_bucket": "mediaplayer-efc92.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16172198445:android:17187966d9eea1bc2726a4",
+        "android_client_info": {
+          "package_name": "com.mediaplayer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16172198445-9f63voop53m788d3vd35spo4gfmp94ve.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbXOICUcUZAvj_yeUNpW18Co-RMhcPIiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16172198445-9f63voop53m788d3vd35spo4gfmp94ve.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
